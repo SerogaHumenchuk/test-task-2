@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/test-task-2/static/js/main.dc348f14.js",
+    "static/media/Spongebob4.png": "/test-task-2/static/media/Spongebob4.c226322554e2088b5e4a.png",
+    "static/media/Spongebob9.png": "/test-task-2/static/media/Spongebob9.d329de02621449a25510.png",
+    "static/media/Spongebob5.png": "/test-task-2/static/media/Spongebob5.0e7ec195bb80cd58de50.png",
+    "static/media/buttonIcon.svg": "/test-task-2/static/media/buttonIcon.4132e2712f57c434b49c7a27b9d3a57d.svg",
+    "index.html": "/test-task-2/index.html",
+    "static/media/SelectArrowIcon.svg": "/test-task-2/static/media/SelectArrowIcon.8f86794e979f152c7efe42f9b8afcd6b.svg",
+    "main.dc348f14.js.map": "/test-task-2/static/js/main.dc348f14.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc348f14.js"
+  ]
+}
